@@ -1,0 +1,3 @@
+/* Hidden until the matching P5 theme supplies its surface styles. */
+#p5-mode-toggle, #p5-companion-settings { display:none; }
+body #p5-mode-toggle[hidden], body #p5-companion-settings[hidden] { display:none; }

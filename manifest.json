@@ -1,0 +1,15 @@
+{
+  "display_name": "P5 / PHANTOM TALK · Display Mode",
+  "loading_order": 90,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "P5 Phantom Theme",
+  "version": "1.2.0",
+  "minimum_client_version": "1.18.0",
+  "hooks": {
+    "disable": "disable"
+  },
+  "homePage": "https://github.com/demilich1117/p5-phantom-companion"
+}
